@@ -3,7 +3,7 @@
 
 A Vite, ReactTS, Tailwind and DaisyUI starter template.
 
-## Author
+## Authors
 
 - [@alestry perez](https://www.github.com/alestry-perez)
 
@@ -19,3 +19,28 @@ A Vite, ReactTS, Tailwind and DaisyUI starter template.
 
 
 
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npx degit alestry-perez/template my-app
+```
+
+Access the project directory.
+```bash
+cd my-app
+```
+
+Install dependencies.
+```bash
+npm install
+``` 
+
+Serve with hot reload at http://localhost:3000.
+```bash
+npm run dev
+```
+
+    
