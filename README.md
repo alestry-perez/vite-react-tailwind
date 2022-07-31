@@ -1,6 +1,6 @@
 # Template Repo
 - Vite 
-- React 
+- ReactTS
 - Tailwind 
 - DaisyUI
 - DaisyUI-React
