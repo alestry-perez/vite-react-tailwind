@@ -3,7 +3,7 @@
 
 A Vite, ReactTS, Tailwind and DaisyUI starter template.
 
-## Authors
+## Author
 
 - [@alestry perez](https://www.github.com/alestry-perez)
 
