@@ -1,7 +1,7 @@
 
 # Template Repo
 
-A starter template for a quick start.
+A very minimal starter template for a quick start.
 
 ## Authors
 
