@@ -1,7 +1,7 @@
 
 # Template Repo
 
-A Vite, ReactTS, Tailwind and DaisyUI starter template.
+A starter template for a quick start.
 
 ## Authors
 
