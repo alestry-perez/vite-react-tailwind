@@ -25,7 +25,7 @@ A very minimal starter template for a quick start.
 Install my-project with npm
 
 ```bash
-npx degit alestry-perez/template my-app
+npx degit alestry-perez/vite-react-tailwind my-app
 ```
 
 Access the project directory.
